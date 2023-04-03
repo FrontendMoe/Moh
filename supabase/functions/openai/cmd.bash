@@ -1,0 +1,1 @@
+curl -L -X POST 'https://odjzvygjmpogtophihqs.functions.supabase.co/openai' -H 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9kanp2eWdqbXBvZ3RvcGhpaHFzIiwicm9sZSI6ImFub24iLCJpYXQiOjE2Nzk0NjI0NjcsImV4cCI6MTk5NTAzODQ2N30.foAzttm85VbchwZnvk3HExHpXuPTZNxRmAyK-M_NY9Q' --data '{"query":"who are you "}'
